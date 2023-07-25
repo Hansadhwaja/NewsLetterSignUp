@@ -3,7 +3,7 @@
 - [Overview]
   (- ![Screenshot](./Screenshot 2023-07-25 120236.png)
   - [Links]
-   (- Live Site URL: [Add live site URL here]((https://news-letter-sign-up-gamma.vercel.app/))
+   (- Live Site URL: [https://news-letter-sign-747kn34yf-hansadhwaja.vercel.app]
 
 - [My process]
   (- [Built with]
